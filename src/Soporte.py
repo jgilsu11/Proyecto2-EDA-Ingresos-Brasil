@@ -2,3 +2,4 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+#Al final no me dio tiempo pasar las pocas funciones que usé
