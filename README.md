@@ -47,3 +47,5 @@ El doble fin de este proyecto incluye tanto el aprendizaje y formación por part
 ***Próximos pasos:***
 
 Quizá en un futuro cuando como desarrollador se posea mayor conocimiento, se puedan implementar mejoras tanto a nivel de tratamiento y limpieza de datos como en la elaboración de gráficos más representativos y análisis más exahustivos. (Incluyendo machine learning, inteligencia artificial o más opciones).
+
+Además dado que en el análisis se eliminaron los nulos, en el futuro podría ser interesante analizar de manera independiente las filas que contengan nulos (independiente para que no distorsione el otro análisis) y de esta manera se conocería la infomación que aportarían esas filas que fueron borradas en el análisis actual.
